@@ -1,5 +1,6 @@
 # E-Commerce System
 
 ## Class Diagram 
+<img width="879" height="714" alt="image" src="https://github.com/user-attachments/assets/b3f5e4f5-672a-46fd-a83c-68becfb1e180" />
 
-<img width="852" height="696" alt="image" src="https://github.com/user-attachments/assets/e1c67274-69f2-4b49-8cd6-30a199f256e9" />
+
