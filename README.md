@@ -2,4 +2,4 @@
 
 ## Class Diagram 
 
-<img width="706" height="759" alt="image" src="https://github.com/user-attachments/assets/0224ac8f-8dd7-4d89-b457-e11e07796063" />
+<img width="852" height="696" alt="image" src="https://github.com/user-attachments/assets/e1c67274-69f2-4b49-8cd6-30a199f256e9" />
